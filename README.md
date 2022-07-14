@@ -9,7 +9,7 @@ whereas other schools of thought emphasize the socio-economic conditions that la
 
 ## Algorithm Selection
 We all know that a house price is a number from some defined assortment, so obviously prediction of prices of houses is a regression task. 
-Therefore have experimented with Linear Regression and Decision Trees to find out which one is best.
+Therefore I have experimented with Linear Regression and Decision Trees to find out which one is best.
 
 ## Results and Output
 ![Model Accuracy](Images/HPR.JPG)
