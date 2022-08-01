@@ -32,11 +32,3 @@ features present in the dataset along with sigmoid function to predict whether c
 ## Results and Output
 ![Model Accuracy](Images/TCR.JPG)
 ![Output](Images/TCO.JPG)
-
-# Project-3 [IRIS Dataset Classification using KNN]
-Classified flower among three flower categories based 'setosa', 'versicolor', 'virginica' as present in IRIS dataset.
-Learned about KNN algorithm.
-
-![image](https://user-images.githubusercontent.com/82443192/181174244-3ca63224-d063-406f-98fa-88f736972aff.png)
-
-
